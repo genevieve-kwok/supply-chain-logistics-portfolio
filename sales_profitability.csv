@@ -1,0 +1,692 @@
+category_name,order_region,order_volume,gross_revenue,net_profit,profit_margin_pct
+Fishing,Central America,2483,1128743.59,134268.2,11.9
+Fishing,Western Europe,2302,1042347.91,114511.5,10.99
+Cleats,Western Europe,3086,664030.25,82271.03,12.39
+Cleats,Central America,3358,729718.38,79509.23,10.9
+Camping & Hiking,Central America,2085,696853.57,67826.04,9.73
+Cardio Equipment,Central America,1857,607819.62,62599.33,10.3
+Camping & Hiking,Western Europe,1770,593960.42,60547.97,10.19
+Fishing,South America,1251,573971.32,59137.11,10.3
+Women's Apparel,Western Europe,2698,475500.0,57116.69,12.01
+Women's Apparel,Central America,2870,517100.0,55246.14,10.68
+Water Sports,Central America,2258,514174.3,53984.94,10.5
+Indoor/Outdoor Games,Central America,2789,487504.92,53710.1,11.02
+Indoor/Outdoor Games,Western Europe,2379,407486.94,51056.12,12.53
+Cardio Equipment,Western Europe,1728,562804.08,49795.16,8.85
+Men's Footwear,Central America,3044,470563.82,46277.8,9.83
+Men's Footwear,Western Europe,2739,421427.6,45151.3,10.71
+Cardio Equipment,South America,976,321148.2,42962.11,13.38
+Water Sports,Western Europe,2078,475376.42,42556.85,8.95
+Fishing,Northern Europe,798,367581.63,42153.81,11.47
+Cleats,South America,1699,364379.27,41898.66,11.5
+Camping & Hiking,South America,1099,364775.69,40373.12,11.07
+Fishing,Southeast Asia,722,332383.39,38905.78,11.71
+Fishing,Oceania,784,358382.09,38539.06,10.75
+Fishing,East of USA,621,282385.89,37550.97,13.3
+Fishing,Southern Europe,805,364381.79,37230.71,10.22
+Fishing,West of USA ,710,325583.73,34777.95,10.68
+Women's Apparel,South America,1596,283600.0,32639.41,11.51
+Fishing,US Center ,513,237988.11,30589.96,12.85
+Water Sports,South America,1224,277586.13,30304.84,10.92
+Fishing,Caribbean,721,330783.47,29860.44,9.03
+Cleats,Caribbean,1000,218543.58,28157.29,12.88
+Men's Footwear,South America,1612,245421.13,28154.22,11.47
+Cleats,Southern Europe,1036,221723.37,27793.91,12.54
+Indoor/Outdoor Games,South America,1423,251199.48,27757.51,11.05
+Fishing,South Asia,578,265586.73,27587.1,10.39
+Camping & Hiking,Southern Europe,625,211485.91,26432.51,12.5
+Cleats,Northern Europe,1075,238940.38,26393.4,11.05
+Fishing,West Asia,511,237188.15,25436.58,10.72
+Cleats,Southeast Asia,947,203966.01,25144.26,12.33
+Shop By Sport,Central America,1725,223655.58,22989.37,10.28
+Cardio Equipment,Caribbean,585,185151.63,22909.27,12.37
+Camping & Hiking,Southeast Asia,546,183587.77,22156.42,12.07
+Cleats,Oceania,1030,221843.03,21946.03,9.89
+Computers,Western Europe,203,304500.0,21728.12,7.14
+Camping & Hiking,Northern Europe,705,236984.21,21611.49,9.12
+Camping & Hiking,Oceania,634,209686.03,21571.13,10.29
+Water Sports,Northern Europe,726,162841.91,21005.42,12.9
+Men's Footwear,Northern Europe,1032,158717.8,20507.06,12.92
+Fishing,West Africa,331,149992.5,20400.67,13.6
+Women's Apparel,Southern Europe,935,162000.0,20298.25,12.53
+Camping & Hiking,West of USA ,546,184187.73,20162.71,10.95
+Cardio Equipment,Northern Europe,620,204769.59,19716.26,9.63
+Cleats,West of USA ,1003,218723.55,19337.74,8.84
+Cardio Equipment,Southern Europe,581,184671.63,19160.79,10.38
+Women's Apparel,West of USA ,818,143050.0,19131.18,13.37
+Cleats,South Asia,773,170971.5,19077.83,11.16
+Fishing,South of  USA ,328,153592.32,18902.37,12.31
+Indoor/Outdoor Games,Southern Europe,851,148840.44,18403.29,12.36
+Camping & Hiking,South Asia,482,161689.23,17956.15,11.11
+Women's Apparel,Northern Europe,989,173700.0,17794.05,10.24
+Cleats,US Center ,691,156393.93,17444.51,11.15
+Shop By Sport,Western Europe,1542,202710.88,17389.99,8.58
+Water Sports,Southern Europe,737,166941.72,17202.8,10.3
+Men's Footwear,Southern Europe,987,152218.3,16971.38,11.15
+Cleats,East of USA,784,170011.66,16912.34,9.95
+Camping & Hiking,East of USA,512,170388.65,16882.8,9.91
+Men's Footwear,Oceania,955,148448.59,16505.12,11.12
+Water Sports,Caribbean,670,148792.56,16243.02,10.92
+Water Sports,West of USA ,644,145392.73,16177.36,11.13
+Indoor/Outdoor Games,Northern Europe,884,154638.12,16167.49,10.46
+Fishing,Eastern Asia,550,249987.51,16098.72,6.44
+Computers,Southern Europe,73,109500.0,16071.97,14.68
+Camping & Hiking,US Center ,419,139490.71,16021.85,11.49
+Water Sports,Oceania,668,152792.36,15973.34,10.45
+Women's Apparel,US Center ,638,113300.0,15701.96,13.86
+Cardio Equipment,East of USA,445,148525.26,15636.48,10.53
+Camping & Hiking,Caribbean,591,198286.79,15556.03,7.85
+Women's Apparel,East of USA,732,127600.0,15472.4,12.13
+Cardio Equipment,Oceania,604,195310.59,15465.51,7.92
+Indoor/Outdoor Games,East of USA,649,111805.26,15159.53,13.56
+Camping & Hiking,South of  USA ,293,97793.48,15149.62,15.49
+Cleats,Eastern Asia,681,145055.82,15053.01,10.38
+Camping & Hiking,Eastern Asia,395,132891.14,15009.38,11.29
+Indoor/Outdoor Games,Oceania,857,147291.06,14916.02,10.13
+Children's Clothing,Western Europe,317,113200.7,14722.6,13.01
+Men's Footwear,Caribbean,884,137269.45,14662.6,10.68
+Cameras ,Western Europe,320,144652.8,14613.29,10.1
+Women's Apparel,Caribbean,832,144700.0,14606.92,10.09
+Computers,Northern Europe,74,111000.0,14409.7,12.98
+Cardio Equipment,West of USA ,512,166953.48,14407.6,8.63
+Indoor/Outdoor Games,Caribbean,821,142742.88,14401.96,10.09
+Indoor/Outdoor Games,Southeast Asia,780,137295.06,14359.96,10.46
+Women's Apparel,Oceania,865,153050.0,14295.29,9.34
+Fishing,Eastern Europe,339,151592.42,13762.59,9.08
+Indoor/Outdoor Games,West of USA ,743,126499.38,13696.53,10.83
+Cardio Equipment,Eastern Asia,401,127367.37,13662.28,10.73
+Camping & Hiking,West Asia,426,139790.69,13546.69,9.69
+Water Sports,East of USA,573,130193.49,13466.85,10.34
+Cleats,West Asia,716,160233.29,13263.64,8.28
+Cardio Equipment,Southeast Asia,488,159534.18,13124.77,8.23
+Cardio Equipment,South Asia,438,137136.39,12998.53,9.48
+Women's Apparel,Southeast Asia,811,141500.0,12655.09,8.94
+Men's Footwear,East of USA,748,116471.04,12649.35,10.86
+Garden,Southeast Asia,126,67105.08,12610.03,18.79
+Men's Footwear,West Asia,685,104381.97,12554.23,12.03
+Men's Footwear,South Asia,738,113741.25,12374.31,10.88
+Cleats,South of  USA ,481,103842.69,12324.11,11.87
+Water Sports,West Asia,469,106594.67,12211.63,11.46
+Men's Footwear,Southeast Asia,802,123100.54,12152.33,9.87
+Cardio Equipment,West Asia,393,122627.85,12108.13,9.87
+Shop By Sport,South America,874,115662.35,12087.97,10.45
+Women's Apparel,West Asia,638,111150.0,12041.46,10.83
+Water Sports,Eastern Asia,474,106794.66,11853.97,11.1
+Women's Apparel,South Asia,652,114350.0,11759.97,10.28
+Cardio Equipment,US Center ,338,112298.82,11593.74,10.32
+Men's Footwear,West of USA ,891,134799.64,11501.95,8.53
+Men's Footwear,US Center ,679,103212.06,11463.31,11.11
+Indoor/Outdoor Games,Eastern Asia,594,106257.48,11339.1,10.67
+Cleats,Eastern Europe,462,104322.61,11137.2,10.68
+Computers,Eastern Asia,32,48000.0,11117.85,23.16
+Indoor/Outdoor Games,South Asia,621,104408.22,11111.1,10.64
+Water Sports,South Asia,523,116794.16,11009.71,9.43
+Women's Apparel,Eastern Asia,597,101450.0,10882.04,10.73
+Indoor/Outdoor Games,US Center ,572,99160.32,10781.91,10.87
+Fishing,North Africa,278,127593.62,10606.64,8.31
+Cardio Equipment,West Africa,237,77772.27,10302.35,13.25
+Cardio Equipment,Eastern Europe,256,84821.61,10049.85,11.85
+Water Sports,US Center ,428,97595.12,9861.51,10.1
+Cleats,West Africa,422,93404.43,9765.04,10.45
+Women's Apparel,South of  USA ,436,76550.0,9362.02,12.23
+Water Sports,Eastern Europe,290,64396.78,9337.77,14.5
+Crafts,Western Europe,125,57685.0,9196.04,15.94
+Cleats,North Africa,395,88065.32,9195.47,10.44
+Men's Footwear,Eastern Asia,676,104381.97,8847.57,8.48
+Water Sports,West Africa,301,67196.64,8724.21,12.98
+Water Sports,Southeast Asia,603,136393.18,8706.47,6.38
+Women's Apparel,Eastern Europe,412,72600.0,8504.44,11.71
+Cameras ,Northern Europe,137,61929.48,8324.28,13.44
+Camping & Hiking,West Africa,260,86994.2,8196.92,9.42
+Women's Clothing,Southeast Asia,221,47696.22,8145.15,17.08
+Shop By Sport,Northern Europe,500,64744.37,8136.62,12.57
+Shop By Sport,Southern Europe,513,65923.87,8063.41,12.23
+Cardio Equipment,South of  USA ,261,82221.84,8025.92,9.76
+Computers,Southeast Asia,35,52500.0,8014.64,15.27
+Camping & Hiking,Eastern Europe,279,95393.64,7880.96,8.26
+Men's Footwear,West Africa,388,59535.42,7812.97,13.12
+Fishing,Southern Africa,110,49997.5,7727.23,15.46
+Water Sports,North Africa,273,61396.93,7588.57,12.36
+Men's Footwear,South of  USA ,461,70194.6,7571.81,10.79
+Garden,Oceania,119,63377.02,7537.68,11.89
+Cardio Equipment,North Africa,214,68433.21,7471.38,10.92
+Indoor/Outdoor Games,Eastern Europe,409,73320.66,7453.44,10.17
+Women's Apparel,North Africa,320,54700.0,7228.81,13.22
+Shop By Sport,West of USA ,452,60285.36,7050.37,11.69
+Indoor/Outdoor Games,West Asia,570,99860.04,6976.21,6.99
+Garden,Eastern Asia,153,81484.74,6889.09,8.45
+Men's Footwear,North Africa,349,55765.71,6639.94,11.91
+Indoor/Outdoor Games,North Africa,325,56527.38,6603.19,11.68
+Fishing,Canada,60,27598.62,6567.47,23.8
+Indoor/Outdoor Games,West Africa,362,63424.62,6549.86,10.33
+Men's Footwear,Eastern Europe,420,65514.96,6536.03,9.98
+Garden,South Asia,86,45801.88,6406.21,13.99
+Electronics,Central America,479,58194.42,6391.82,10.98
+Shop By Sport,East of USA,444,56336.31,6318.97,11.22
+Cardio Equipment,Central Africa,109,34596.57,6275.32,18.14
+Camping & Hiking,East Africa,130,42897.14,5853.58,13.65
+Cardio Equipment,East Africa,129,50005.05,5823.14,11.65
+Water Sports,South of  USA ,328,72396.38,5809.58,8.02
+Shop By Sport,South Asia,402,53196.93,5696.34,10.71
+Shop By Sport,Caribbean,501,64434.39,5650.57,8.77
+Cameras ,Southern Europe,118,53340.72,5639.57,10.57
+Consumer Electronics,Western Europe,155,39196.4,5474.39,13.97
+Shop By Sport,West Asia,343,42549.66,5409.89,12.71
+Shop By Sport,Oceania,499,63944.4,5400.68,8.45
+Electronics,Western Europe,317,38433.22,5151.24,13.4
+Water Sports,East Africa,155,35198.24,5132.24,14.58
+Fishing,East Africa,167,79196.04,5040.91,6.37
+Cleats,Central Africa,207,41273.12,5003.84,12.12
+Indoor/Outdoor Games,East Africa,179,32337.06,4979.87,15.4
+Shop By Sport,Eastern Asia,354,45318.99,4796.19,10.58
+Cleats,East Africa,224,49971.67,4795.18,9.6
+Health and Beauty,Southeast Asia,116,33992.64,4685.97,13.79
+Women's Clothing,Oceania,178,38415.96,4653.36,12.11
+Crafts,Southeast Asia,72,33226.56,4573.03,13.76
+Music,Oceania,125,32581.25,4572.98,14.04
+Indoor/Outdoor Games,South of  USA ,389,65273.88,4565.41,6.99
+Women's Apparel,West Africa,408,71150.0,4563.83,6.41
+Sporting Goods,Southeast Asia,108,35397.0,4527.16,12.79
+Men's Footwear,East Africa,208,32107.53,4488.79,13.98
+Fishing,Central Africa,147,67196.64,4459.01,6.64
+Electronics,South America,251,31124.24,4112.35,13.21
+Music,South Asia,96,25022.4,4068.22,16.26
+Crafts,South Asia,64,29534.72,3955.44,13.39
+Men's Footwear,Southern Africa,137,20408.43,3926.34,19.24
+Camping & Hiking,Southern Africa,80,27298.18,3879.22,14.21
+Girls' Apparel,Central America,186,24223.51,3871.2,15.98
+Shop By Sport,US Center ,336,41329.92,3857.09,9.33
+Health and Beauty,South Asia,87,25494.48,3825.82,15.01
+Camping & Hiking,North Africa,206,69895.34,3613.84,5.17
+Children's Clothing,Northern Europe,100,35710.0,3562.43,9.98
+Camping & Hiking,Central Africa,111,38097.46,3546.44,9.31
+Cardio Equipment,Southern Africa,79,26367.39,3526.27,13.37
+Kids' Golf Clubs,Western Europe,159,47228.65,3522.29,7.46
+Cardio Equipment,Canada,68,24587.55,3477.36,14.14
+Golf Shoes,Central America,108,20668.0,3380.71,16.36
+Shop By Sport,Southeast Asia,440,56006.34,3350.63,5.98
+Women's Apparel,East Africa,179,29650.0,3242.74,10.94
+Women's Clothing,Eastern Asia,110,23740.2,3221.36,13.57
+Cleats,Canada,122,25675.72,3206.88,12.49
+Women's Clothing,South Asia,141,30430.62,3082.98,10.13
+Women's Apparel,Central Africa,172,32650.0,2994.88,9.17
+Electronics,West Asia,116,14494.34,2978.45,20.55
+Music,Eastern Asia,102,26586.3,2970.33,11.17
+Sporting Goods,South Asia,79,25892.25,2945.82,11.38
+Indoor/Outdoor Games,Central Africa,165,27538.98,2941.52,10.68
+Kids' Golf Clubs,Central America,63,14883.31,2929.71,19.68
+Boxing & MMA,Central America,66,13980.26,2907.01,20.79
+Accessories,Central America,277,20516.79,2841.83,13.85
+Music,Southeast Asia,111,28932.15,2824.79,9.76
+Golf Shoes,Western Europe,112,23632.0,2800.23,11.85
+Baseball & Softball,Central America,109,15722.1,2798.93,17.8
+DVDs,Oceania,88,14465.44,2793.85,19.31
+Electronics,Oceania,193,21929.35,2765.89,12.61
+Golf Gloves,Western Europe,152,24551.41,2726.96,11.11
+Shop By Sport,North Africa,172,22184.61,2664.53,12.01
+Crafts,Northern Europe,61,28150.28,2649.5,9.41
+Children's Clothing,Southern Europe,105,37495.5,2646.38,7.06
+Children's Clothing,Southeast Asia,67,23925.7,2622.29,10.96
+Sporting Goods,Oceania,89,29169.75,2612.58,8.96
+Strength Training,Western Europe,57,28091.71,2546.77,9.07
+Cleats,Central Asia,65,15117.48,2543.74,16.83
+Shop By Sport,West Africa,209,26843.46,2534.35,9.44
+Cleats,Southern Africa,129,25735.71,2462.58,9.57
+Men's Footwear,Central Africa,167,27167.91,2458.06,9.05
+Water Sports,Central Africa,129,29398.53,2451.87,8.34
+Water Sports,Southern Africa,85,18999.05,2450.48,12.9
+Shop By Sport,South of  USA ,233,29422.86,2450.33,8.33
+Sporting Goods,Eastern Asia,81,26547.75,2433.05,9.16
+Camping & Hiking,Canada,70,24298.38,2430.69,10.0
+Women's Apparel,Southern Africa,118,20950.0,2385.5,11.39
+Indoor/Outdoor Games,Southern Africa,111,18842.46,2328.98,12.36
+Men's Clothing,Oceania,58,12229.3,2301.7,18.82
+Water Sports,Canada,82,18399.08,2268.41,12.33
+Golf Gloves,Central America,159,18490.58,2249.12,12.16
+Accessories,Western Europe,182,13844.46,2230.73,16.11
+Electronics,South Asia,151,19294.0,2208.04,11.44
+Electronics,West of USA ,168,19969.85,2198.01,11.01
+Electronics,Caribbean,141,17211.65,2197.88,12.77
+Consumer Electronics,Oceania,38,9609.44,2114.42,22.0
+Fishing,Central Asia,55,25598.72,2105.98,8.23
+Crafts,Eastern Asia,63,29073.24,2044.54,7.03
+Electronics,Southern Europe,98,12805.65,1970.29,15.39
+Shop By Sport,Eastern Europe,227,28323.03,1952.4,6.89
+Women's Golf Clubs,Western Europe,69,18338.33,1934.47,10.55
+Cardio Equipment,Central Asia,36,9919.02,1919.55,19.35
+Hunting & Shooting,Western Europe,75,12097.86,1829.59,15.12
+Indoor/Outdoor Games,Canada,93,16693.32,1791.29,10.73
+Golf Shoes,South America,56,12275.0,1781.27,14.51
+Soccer,Central America,36,7189.18,1776.02,24.7
+Hockey,Western Europe,82,11431.8,1746.17,15.27
+Electronics,East of USA,135,17103.66,1738.75,10.17
+Golf Balls,Central America,230,12343.99,1733.8,14.05
+Golf Gloves,Southern Europe,51,9038.71,1724.46,19.08
+Accessories,South America,149,11245.5,1710.42,15.21
+Shop By Sport,East Africa,103,13066.77,1684.33,12.89
+Electronics,Southeast Asia,198,22684.22,1632.01,7.19
+Electronics,Eastern Asia,118,14602.15,1592.52,10.91
+Crafts,Oceania,54,24919.92,1574.21,6.32
+Boxing & MMA,Western Europe,68,15921.77,1557.93,9.78
+Girls' Apparel,Caribbean,62,7839.59,1557.76,19.87
+Crafts,Southern Europe,45,20766.6,1538.41,7.41
+Consumer Electronics,Northern Europe,56,14161.28,1502.13,10.61
+Baseball & Softball,South America,61,8968.43,1500.49,16.73
+Men's Golf Clubs,Western Europe,97,16818.47,1497.4,8.9
+Men's Footwear,Central Asia,76,11179.14,1472.26,13.17
+Cameras ,Southeast Asia,12,5424.48,1450.68,26.74
+Trade-In,Western Europe,101,10757.34,1444.66,13.43
+Boxing & MMA,Caribbean,19,4893.53,1430.77,29.24
+Golf Shoes,Northern Europe,35,8120.0,1429.96,17.61
+Tennis & Racquet,Central America,45,6028.66,1418.62,23.53
+Girls' Apparel,Western Europe,130,16098.7,1408.26,8.75
+Indoor/Outdoor Games,Central Asia,57,10045.98,1401.04,13.95
+Electronics,North Africa,78,9896.5,1399.45,14.14
+Children's Clothing,Eastern Asia,22,7856.2,1397.17,17.78
+Women's Golf Clubs,Central America,40,8469.26,1386.47,16.37
+Kids' Golf Clubs,Northern Europe,51,12599.1,1342.59,10.66
+Consumer Electronics,Southeast Asia,57,14414.16,1331.19,9.24
+DVDs,Southeast Asia,76,12492.88,1319.3,10.56
+DVDs,Eastern Asia,58,9534.04,1297.08,13.6
+Children's Clothing,South Asia,21,7499.1,1295.1,17.27
+Girls' Apparel,West of USA ,71,9179.41,1282.99,13.98
+Girls' Apparel,South America,97,12649.25,1275.93,10.09
+Women's Apparel,Central Asia,53,10000.0,1272.1,12.72
+Consumer Electronics,South Asia,32,8092.16,1265.35,15.64
+Men's Golf Clubs,South America,38,6469.44,1264.47,19.55
+Camping & Hiking,Central Asia,35,11699.22,1250.01,10.68
+Pet Supplies,Oceania,145,12238.0,1232.25,10.07
+Women's Apparel,Canada,100,17500.0,1225.86,7.0
+Men's Footwear,Canada,105,15728.79,1224.09,7.78
+Girls' Apparel,Southeast Asia,71,8619.66,1206.77,14.0
+Golf Apparel,Western Europe,88,8598.28,1165.32,13.55
+Hunting & Shooting,Northern Europe,27,5795.51,1144.03,19.74
+Basketball,Northern Europe,9,3699.9,1133.8,30.64
+Electronics,Eastern Europe,94,11746.99,1132.11,9.64
+Girls' Apparel,South Asia,55,8209.67,1127.27,13.73
+Shop By Sport,Southern Africa,71,8198.01,1107.62,13.51
+As Seen on  TV!,Western Europe,21,6399.36,1093.31,17.08
+Baseball & Softball,Caribbean,33,5249.0,1040.28,19.82
+Lacrosse,Central America,83,10697.55,1039.44,9.72
+Golf Gloves,South America,113,12436.75,1025.82,8.25
+Fitness Accessories,Western Europe,36,6324.0,1020.94,16.14
+Trade-In,Central America,145,11417.91,990.91,8.68
+Men's Golf Clubs,Northern Europe,31,4739.58,985.01,20.78
+Lacrosse,Western Europe,38,6023.94,983.63,16.33
+Baseball & Softball,Western Europe,76,11828.17,975.47,8.25
+Golf Balls,South America,123,7137.95,973.96,13.64
+Men's Golf Clubs,Central America,64,10669.05,972.66,9.12
+Golf Apparel,Central America,74,6078.48,958.78,15.77
+Accessories,Southeast Asia,103,7671.93,955.81,12.46
+Baseball & Softball,Southern Europe,30,4164.41,955.32,22.94
+Golf Bags & Carts,Western Europe,22,3739.78,945.43,25.28
+Computers,South Asia,14,21000.0,943.39,4.49
+Children's Clothing,Oceania,20,7142.0,932.13,13.05
+Pet Supplies,South Asia,76,6414.4,929.02,14.48
+Consumer Electronics,Southern Europe,74,18713.12,928.58,4.96
+Trade-In,South America,102,7384.98,914.94,12.39
+Golf Balls,Caribbean,70,3661.94,892.18,24.36
+Electronics,Northern Europe,115,13060.62,876.87,6.71
+Golf Gloves,Caribbean,57,5913.21,875.23,14.8
+Tennis & Racquet,South America,29,4364.03,873.01,20.0
+Golf Gloves,Oceania,51,4418.43,864.44,19.56
+Accessories,West of USA ,92,7422.03,859.71,11.58
+DVDs,South Asia,46,7561.48,857.84,11.34
+Strength Training,Southern Europe,12,8544.93,848.22,9.93
+Accessories,Northern Europe,58,4323.27,846.2,19.57
+Golf Balls,Eastern Asia,71,3919.78,842.27,21.49
+Lacrosse,Northern Europe,23,3599.31,841.29,23.37
+Video Games,Oceania,188,7473.0,841.24,11.26
+Girls' Apparel,Eastern Asia,52,6744.73,838.67,12.43
+Water Sports,Central Asia,40,8199.59,825.12,10.06
+Girls' Apparel,West Asia,48,5504.61,818.66,14.87
+Kids' Golf Clubs,Southern Europe,49,13140.2,811.39,6.17
+Girls' Apparel,Southern Europe,39,4914.56,804.81,16.38
+Pet Supplies,Southeast Asia,141,11900.4,794.74,6.68
+Accessories,US Center ,87,5897.64,788.93,13.38
+Electronics,East Africa,37,4494.92,774.68,17.23
+Baseball & Softball,US Center ,25,4414.11,768.17,17.4
+DVDs,Northern Europe,59,9698.42,752.47,7.76
+Golf Shoes,East of USA,17,4355.0,750.87,17.24
+Golf Shoes,West of USA ,16,2730.0,742.67,27.2
+Girls' Apparel,Oceania,57,8149.66,736.45,9.04
+Accessories,East of USA,78,5922.63,735.47,12.42
+Health and Beauty,Eastern Asia,83,24322.32,734.95,3.02
+Golf Gloves,Northern Europe,66,11253.59,730.49,6.49
+Hunting & Shooting,South America,47,5921.14,719.44,12.15
+Shop By Sport,Central Africa,110,14336.55,716.73,5.0
+Soccer,South America,11,3049.63,714.11,23.42
+Accessories,North Africa,41,3498.6,703.06,20.1
+Video Games,Southeast Asia,251,9977.25,699.91,7.02
+Fitness Accessories,Central America,42,4233.79,696.98,16.46
+Trade-In,West of USA ,55,3226.2,680.96,21.11
+Accessories,Oceania,101,7546.98,680.79,9.02
+Golf Balls,Western Europe,148,7952.45,670.54,8.43
+Boxing & MMA,East of USA,19,3133.29,646.37,20.63
+Golf Gloves,West of USA ,57,3873.39,643.9,16.62
+Baseball & Softball,Northern Europe,24,4014.31,642.26,16.0
+Accessories,Eastern Europe,50,4098.36,634.63,15.48
+Pet Supplies,Eastern Asia,130,10972.0,633.25,5.77
+Women's Golf Clubs,South America,22,5489.5,631.86,11.51
+Video Games,South Asia,194,7711.5,628.87,8.15
+Baseball & Softball,West of USA ,29,3819.23,617.21,16.16
+Consumer Electronics,Eastern Asia,19,4804.72,607.34,12.64
+Hunting & Shooting,Central America,76,10432.15,602.56,5.78
+Boxing & MMA,West Asia,14,2088.86,590.53,28.27
+Books ,Western Europe,212,6588.96,590.02,8.95
+Fitness Accessories,Northern Europe,16,3269.55,585.21,17.9
+Women's Golf Clubs,Caribbean,12,2669.78,583.14,21.84
+Trade-In,Caribbean,48,4112.52,573.45,13.94
+Hockey,Central America,88,5959.0,567.53,9.52
+Men's Golf Clubs,Southern Europe,37,6369.43,565.69,8.88
+Golf Gloves,US Center ,35,2688.9,558.2,20.76
+Baseball & Softball,Oceania,38,5453.82,555.51,10.19
+Soccer,Northern Europe,13,2199.77,549.88,25.0
+Video Games,Eastern Asia,205,8148.75,547.5,6.72
+Baseball & Softball,North Africa,14,2589.51,534.55,20.64
+Electronics,South of  USA ,94,10654.25,529.15,4.97
+Tennis & Racquet,West of USA ,18,2969.34,527.86,17.78
+Soccer,Southern Europe,17,3424.6,526.02,15.36
+Shop By Sport,Canada,58,7448.22,511.14,6.86
+Electronics,Central Africa,32,3890.97,510.26,13.11
+Golf Shoes,Eastern Asia,11,2210.0,507.78,22.98
+Tennis & Racquet,Western Europe,27,3869.14,500.29,12.93
+Basketball,Western Europe,43,19799.55,493.62,2.49
+Hockey,South America,50,3398.0,491.66,14.47
+Golf Shoes,Southern Europe,34,8302.0,490.37,5.91
+Baseball & Softball,South of  USA ,18,2319.48,488.53,21.06
+Lacrosse,South America,29,3699.18,480.53,12.99
+Golf Bags & Carts,Central America,14,2379.86,479.78,20.16
+Golf Shoes,South Asia,19,4355.0,468.2,10.75
+Kids' Golf Clubs,Caribbean,16,3226.46,463.31,14.36
+Accessories,Southern Europe,70,5672.73,461.81,8.14
+Girls' Apparel,South of  USA ,34,4679.69,461.73,9.87
+Hunting & Shooting,Oceania,17,1889.37,460.82,24.39
+Girls' Apparel,West Africa,27,3244.95,459.44,14.16
+Hockey,Southeast Asia,40,2365.0,455.17,19.25
+Electronics,Southern Africa,26,3278.19,452.15,13.79
+Golf Apparel,South America,34,3109.39,452.11,14.54
+Boxing & MMA,South Asia,13,2033.89,450.76,22.16
+Trade-In,Southern Europe,33,3565.17,446.91,12.54
+Baby ,Western Europe,35,2067.8,443.63,21.45
+Accessories,South Asia,80,6447.42,441.15,6.84
+Golf Balls,East of USA,56,2805.39,435.6,15.53
+Girls' Apparel,Eastern Europe,32,4169.74,432.86,10.38
+Golf Gloves,South of  USA ,22,2349.21,429.45,18.28
+Girls' Apparel,US Center ,49,6159.53,427.94,6.95
+Golf Balls,Southern Europe,64,3772.86,427.35,11.33
+Trade-In,US Center ,35,2112.81,427.21,20.22
+Cameras ,Oceania,2,904.08,418.72,46.31
+Golf Balls,Eastern Europe,46,2355.66,417.97,17.74
+Soccer,Western Europe,49,9064.03,416.3,4.59
+Accessories,Central Africa,20,1699.32,415.61,24.46
+Tennis & Racquet,Oceania,20,2564.43,412.19,16.07
+Baby ,Eastern Asia,37,2185.96,409.12,18.72
+Baseball & Softball,South Asia,23,3724.2,408.59,10.97
+Accessories,West Asia,81,5922.63,394.83,6.67
+Accessories,West Africa,44,3223.71,390.99,12.13
+Trade-In,South Asia,41,2196.81,389.37,17.72
+Fitness Accessories,Southeast Asia,16,1294.63,382.26,29.53
+Accessories,Eastern Asia,62,4748.1,373.93,7.88
+Hunting & Shooting,Southern Europe,26,4157.5,373.26,8.98
+Boxing & MMA,US Center ,9,1209.34,373.14,30.85
+Baseball & Softball,East of USA,28,4759.04,371.07,7.8
+Golf Balls,West Asia,63,3102.23,369.83,11.92
+Trade-In,East of USA,38,2058.93,367.86,17.87
+Hockey,West Asia,30,1961.0,366.89,18.71
+Accessories,South of  USA ,44,3348.66,366.48,10.94
+Hockey,South of  USA ,22,1503.0,363.42,24.18
+Fitness Accessories,Southern Europe,7,1829.8,360.92,19.72
+Fitness Accessories,South America,26,2554.27,350.69,13.73
+Women's Golf Clubs,Southern Europe,20,4919.54,347.91,7.07
+Tennis & Racquet,West Africa,10,1349.7,340.86,25.25
+Girls' Apparel,North Africa,17,2069.88,340.5,16.45
+Toys,Southeast Asia,199,2296.46,339.62,14.79
+Golf Shoes,Central Africa,7,1365.0,333.37,24.42
+Boxing & MMA,Eastern Asia,16,2528.62,333.14,13.17
+Golf Shoes,US Center ,14,2535.0,331.02,13.06
+Fitness Accessories,South Asia,15,1259.64,328.74,26.1
+Accessories,Canada,14,1149.54,325.21,28.29
+Hockey,Caribbean,29,1929.0,323.36,16.76
+Tennis & Racquet,Southern Europe,14,1574.65,322.78,20.5
+Golf Bags & Carts,South America,10,1699.9,320.68,18.86
+Boxing & MMA,West of USA ,14,2308.74,311.58,13.5
+Golf Shoes,South of  USA ,11,2080.0,309.96,14.9
+Tennis & Racquet,East of USA,15,1664.63,305.08,18.33
+Golf Shoes,Southeast Asia,11,1950.0,301.29,15.45
+Fitness Accessories,West of USA ,18,1784.49,300.5,16.84
+Trade-In,Northern Europe,47,4766.76,294.32,6.17
+Tennis & Racquet,North Africa,10,1349.7,293.76,21.76
+Trade-In,West Asia,49,2660.52,287.91,10.82
+Baseball & Softball,Southeast Asia,27,3844.23,282.95,7.36
+Trade-In,West Africa,27,1575.09,281.81,17.89
+Golf Gloves,West Africa,28,1814.19,276.42,15.24
+Trade-In,Southeast Asia,47,2514.6,275.42,10.95
+Accessories,Caribbean,74,5497.8,272.81,4.96
+Baby ,Northern Europe,19,1122.52,271.76,24.21
+Baby ,Southern Europe,28,1654.24,271.16,16.39
+Baseball & Softball,West Asia,19,2469.43,268.57,10.88
+Fitness Accessories,East of USA,10,1049.7,265.74,25.32
+Hunting & Shooting,Southeast Asia,15,1109.63,262.99,23.7
+Golf Balls,Oceania,94,4806.27,262.62,5.46
+Boxing & MMA,Southern Europe,31,6848.37,253.23,3.7
+Accessories,East Africa,20,1649.34,252.99,15.34
+Boxing & MMA,Northern Europe,29,7628.5,252.07,3.3
+Hunting & Shooting,South of  USA ,8,1019.66,249.49,24.47
+Fitness Accessories,West Asia,16,1749.5,247.45,14.14
+Health and Beauty,Oceania,76,22271.04,246.89,1.11
+Lacrosse,Southeast Asia,11,774.69,245.87,31.74
+Golf Apparel,Southern Europe,27,2279.53,245.73,10.78
+Toys,Oceania,135,1557.9,239.15,15.35
+Hockey,Eastern Asia,16,1075.0,238.28,22.17
+Men's Golf Clubs,Caribbean,13,1969.83,232.76,11.82
+Girls' Apparel,Central Africa,17,2459.84,232.13,9.44
+Hockey,Oceania,37,2166.0,231.64,10.69
+Golf Gloves,Southeast Asia,34,2748.96,227.13,8.26
+Baseball & Softball,East Africa,7,1109.79,226.12,20.38
+Baby ,Southeast Asia,38,2245.04,221.55,9.87
+Golf Balls,West of USA ,65,3384.03,220.32,6.51
+Basketball,Southern Europe,12,3599.88,218.25,6.06
+Hockey,Eastern Europe,13,850.0,217.83,25.63
+Golf Balls,US Center ,69,3689.86,206.73,5.6
+Golf Apparel,East of USA,22,1319.34,206.13,15.62
+Toys,Eastern Asia,115,1327.1,205.34,15.47
+Golf Balls,Northern Europe,35,1602.09,203.44,12.7
+Books ,Southern Europe,44,1367.52,202.56,14.81
+Hunting & Shooting,Eastern Europe,6,689.77,199.14,28.87
+Hockey,East of USA,25,1770.0,196.59,11.11
+Boxing & MMA,Central Africa,6,824.55,195.84,23.75
+Baseball & Softball,Eastern Asia,23,2934.34,193.66,6.6
+Trade-In,North Africa,19,975.42,190.05,19.48
+Lacrosse,Eastern Europe,10,599.76,186.36,31.07
+Hockey,Central Africa,10,696.0,184.09,26.45
+Lacrosse,South Asia,9,724.71,181.69,25.07
+Lacrosse,North Africa,10,724.71,181.39,25.03
+Electronics,Central Asia,12,1423.66,180.57,12.68
+Golf Gloves,Southern Africa,7,634.8,172.89,27.24
+Tennis & Racquet,Southeast Asia,18,2519.44,171.96,6.83
+Tennis & Racquet,Eastern Europe,8,1034.77,171.1,16.54
+Trade-In,South of  USA ,19,1029.39,170.0,16.51
+Golf Shoes,Canada,3,650.0,165.99,25.54
+Lacrosse,Eastern Asia,13,1024.59,165.77,16.18
+Girls' Apparel,Canada,10,1329.9,163.77,12.31
+Books ,Oceania,28,870.24,163.73,18.81
+Strength Training,South America,6,1134.0,163.58,14.43
+Baseball & Softball,Eastern Europe,16,2209.54,162.91,7.37
+Fitness Accessories,South of  USA ,7,874.75,161.71,18.49
+Lacrosse,East of USA,13,949.62,161.2,16.98
+Golf Bags & Carts,Northern Europe,4,679.96,160.45,23.6
+Tennis & Racquet,Central Africa,4,494.89,158.19,31.96
+Hunting & Shooting,South Asia,15,1349.55,155.42,11.52
+Hockey,Southern Europe,27,2525.97,153.13,6.06
+Boxing & MMA,East Africa,4,604.67,151.9,25.12
+Golf Gloves,East of USA,30,2418.99,145.59,6.02
+Women's Golf Clubs,Northern Europe,18,4659.56,144.79,3.11
+Boxing & MMA,Canada,4,769.58,141.49,18.39
+Strength Training,Central America,9,1701.0,141.32,8.31
+Golf Gloves,Central Africa,7,424.83,138.85,32.68
+Golf Balls,North Africa,36,1976.89,137.72,6.97
+Boxing & MMA,South America,41,9107.62,136.14,1.49
+Golf Balls,South of  USA ,36,1828.94,134.88,7.37
+Fitness Accessories,Oceania,19,1364.61,131.78,9.66
+Hunting & Shooting,East Africa,4,419.86,127.62,30.4
+Golf Balls,Southeast Asia,68,3629.9,127.31,3.51
+DVDs,Southern Europe,39,6410.82,126.04,1.97
+Golf Balls,East Africa,17,987.47,124.47,12.6
+Baseball & Softball,Central Africa,8,1304.72,123.94,9.5
+Golf Apparel,South Asia,14,759.62,117.09,15.41
+Toys,South Asia,80,923.2,116.6,12.63
+Girls' Apparel,Central Asia,6,504.97,114.4,22.65
+Lacrosse,West of USA ,14,999.6,112.17,11.22
+CDs ,Western Europe,68,767.72,110.98,14.46
+Hunting & Shooting,Central Africa,5,389.87,110.17,28.26
+Tennis & Racquet,South of  USA ,8,989.78,107.58,10.87
+Lacrosse,Oceania,15,1224.51,106.56,8.7
+Fitness Accessories,Eastern Europe,5,594.83,105.37,17.71
+Golf Balls,Southern Africa,10,499.7,102.7,20.55
+Fitness Accessories,Eastern Asia,16,1399.6,101.75,7.27
+Golf Gloves,Central Asia,4,394.86,100.75,25.52
+Fitness Accessories,Caribbean,17,1609.54,100.22,6.23
+Golf Apparel,US Center ,12,719.64,100.08,13.91
+Golf Shoes,East Africa,2,390.0,99.53,25.52
+Men's Clothing,Southeast Asia,54,11385.9,98.0,0.86
+Lacrosse,Caribbean,12,799.68,96.0,12.0
+Tennis & Racquet,Canada,3,314.93,93.41,29.66
+Lacrosse,South of  USA ,5,324.87,93.03,28.64
+Men's Clothing,Eastern Asia,51,10753.35,92.65,0.86
+Tennis & Racquet,Eastern Asia,13,1484.67,92.49,6.23
+Golf Shoes,West Africa,8,1365.0,91.43,6.7
+Hunting & Shooting,West of USA ,12,1139.62,91.27,8.01
+Golf Balls,South Asia,74,3978.85,90.48,2.27
+Golf Gloves,Eastern Europe,23,1489.41,90.39,6.07
+Tennis & Racquet,Central Asia,1,224.95,90.38,40.18
+Golf Gloves,South Asia,53,3758.52,90.17,2.4
+Girls' Apparel,East Africa,6,375.0,84.53,22.54
+Trade-In,Canada,8,373.8,82.77,22.14
+Golf Apparel,Southeast Asia,15,979.51,81.87,8.36
+Boxing & MMA,Southern Africa,4,659.64,81.36,12.33
+Hockey,North Africa,11,786.0,81.1,10.32
+Fitness Accessories,US Center ,14,1469.58,80.95,5.51
+Golf Apparel,Eastern Europe,6,339.83,80.08,23.56
+Trade-In,East Africa,8,401.76,78.64,19.57
+Hunting & Shooting,West Asia,16,1289.57,76.7,5.95
+Hockey,West of USA ,28,2015.0,76.36,3.79
+Golf Gloves,Canada,5,439.83,76.33,17.35
+Golf Apparel,West Asia,12,699.65,75.93,10.85
+Golf Gloves,North Africa,15,984.57,73.82,7.5
+Baseball & Softball,Southern Africa,7,1124.75,72.09,6.41
+CDs ,Northern Europe,31,349.99,70.39,20.11
+As Seen on  TV!,Southern Europe,10,2699.73,68.21,2.53
+Tennis & Racquet,Northern Europe,17,2249.5,66.45,2.95
+Electronics,US Center ,117,13594.58,65.38,0.48
+Golf Apparel,West Africa,12,759.62,64.69,8.52
+CDs ,Eastern Asia,35,395.15,64.58,16.34
+Hunting & Shooting,US Center ,8,719.76,61.89,8.6
+Hunting & Shooting,Southern Africa,1,149.95,58.5,39.01
+Books ,Northern Europe,52,1616.16,58.2,3.6
+Golf Apparel,South of  USA ,5,339.83,57.82,17.01
+Books ,South Asia,15,466.2,55.42,11.89
+Hockey,East Africa,4,298.0,54.77,18.38
+Hockey,Southern Africa,2,150.0,54.68,36.45
+Tennis & Racquet,East Africa,1,224.95,52.91,23.52
+Golf Gloves,East Africa,7,389.82,52.78,13.54
+Boxing & MMA,Oceania,11,2033.89,51.72,2.54
+Golf Balls,Central Africa,15,779.57,50.83,6.52
+CDs ,South Asia,24,270.96,49.84,18.39
+Hockey,Canada,2,169.0,49.52,29.3
+Golf Apparel,Oceania,16,819.59,45.51,5.55
+Trade-In,Eastern Asia,43,2298.69,45.04,1.96
+CDs ,Southeast Asia,31,349.99,43.82,12.52
+Lacrosse,Canada,1,124.95,42.73,34.2
+Fitness Accessories,Central Africa,2,174.95,41.63,23.8
+Electronics,Canada,22,2451.37,40.82,1.67
+Tennis & Racquet,Caribbean,16,2429.46,40.73,1.68
+Golf Gloves,Eastern Asia,49,3473.49,39.61,1.14
+Trade-In,Central Africa,7,257.85,39.42,15.29
+Golf Apparel,East Africa,4,219.89,37.95,17.26
+Golf Apparel,Central Africa,2,119.94,37.66,31.4
+Fitness Accessories,Canada,3,279.92,35.9,12.83
+Hunting & Shooting,Canada,2,119.96,35.77,29.82
+CDs ,Oceania,48,541.92,32.21,5.94
+Golf Apparel,West of USA ,15,1119.44,31.76,2.84
+Accessories,Southern Africa,16,1474.41,31.46,2.13
+Lacrosse,East Africa,1,99.96,30.84,30.85
+Boxing & MMA,South of  USA ,8,1154.37,30.48,2.64
+Baseball & Softball,Canada,1,104.97,30.44,29.0
+Lacrosse,Central Africa,1,124.95,27.61,22.1
+Tennis & Racquet,Southern Africa,2,314.93,25.67,8.15
+Trade-In,Southern Africa,11,583.68,23.58,4.04
+Fitness Accessories,Southern Africa,2,104.97,20.29,19.33
+Boxing & MMA,Southeast Asia,15,1704.07,20.14,1.18
+Hunting & Shooting,Central Asia,4,419.86,18.88,4.5
+Hunting & Shooting,West Africa,11,899.7,15.08,1.68
+CDs ,Southern Europe,34,383.86,12.03,3.13
+Tennis & Racquet,South Asia,13,1709.62,11.33,0.66
+Golf Apparel,Central Asia,1,79.96,6.54,8.18
+Golf Bags & Carts,Caribbean,1,169.99,6.43,3.78
+Trade-In,Oceania,62,3314.16,5.93,0.18
+Lacrosse,West Asia,8,724.71,4.9,0.68
+Hockey,West Africa,15,963.0,4.61,0.48
+Golf Shoes,Southern Africa,2,325.0,4.09,1.26
+Golf Apparel,Southern Africa,2,139.93,2.37,1.69
+Trade-In,Central Asia,1,43.98,1.58,3.59
+Golf Balls,Central Asia,2,29.98,-3.74,-12.47
+Shop By Sport,Central Asia,28,3599.16,-5.56,-0.15
+Electronics,West Africa,69,8695.84,-7.31,-0.08
+Fitness Accessories,West Africa,11,1469.58,-9.25,-0.63
+Lacrosse,Southern Africa,1,49.98,-13.64,-27.29
+Tennis & Racquet,West Asia,18,2384.47,-16.86,-0.71
+Hockey,US Center ,31,1852.0,-22.27,-1.2
+Fitness Accessories,East Africa,1,139.96,-22.78,-16.28
+Kids' Golf Clubs,South America,35,7719.86,-23.45,-0.3
+Golf Apparel,Eastern Asia,12,599.7,-24.0,-4.0
+Fitness Accessories,North Africa,8,769.78,-28.61,-3.72
+Lacrosse,West Africa,10,749.7,-29.61,-3.95
+As Seen on  TV!,South America,10,2199.78,-30.56,-1.39
+Golf Balls,West Africa,41,2278.71,-32.73,-1.44
+Baby ,Oceania,34,2008.72,-33.0,-1.64
+Golf Apparel,Canada,2,79.96,-40.77,-50.99
+Golf Apparel,Northern Europe,30,3429.55,-43.01,-1.25
+Books ,Eastern Asia,20,621.6,-43.21,-6.95
+Hunting & Shooting,East of USA,21,1799.4,-44.83,-2.49
+Golf Balls,Canada,11,573.65,-45.86,-7.99
+As Seen on  TV!,Northern Europe,11,3899.61,-48.57,-1.25
+Golf Shoes,Oceania,9,1950.0,-51.25,-2.63
+Golf Shoes,Eastern Europe,4,455.0,-55.5,-12.2
+Girls' Apparel,Southern Africa,11,1964.93,-56.36,-2.87
+Lacrosse,Central Asia,2,124.95,-58.42,-46.75
+Hockey,South Asia,26,2100.0,-59.12,-2.82
+Baby ,South Asia,16,945.28,-59.19,-6.26
+Golf Apparel,Caribbean,25,1759.38,-66.07,-3.76
+Girls' Apparel,East of USA,59,6284.8,-67.88,-1.08
+Accessories,Central Asia,10,849.66,-71.33,-8.4
+Lacrosse,US Center ,13,1049.58,-77.17,-7.35
+Soccer,Caribbean,10,1549.84,-80.38,-5.19
+Golf Apparel,North Africa,10,619.69,-97.26,-15.69
+Trade-In,Eastern Europe,18,1093.41,-97.37,-8.91
+Golf Bags & Carts,Southern Europe,10,1699.9,-102.7,-6.04
+Golf Shoes,Caribbean,23,4126.0,-114.91,-2.79
+Boxing & MMA,Central Asia,2,384.79,-118.57,-30.81
+Hunting & Shooting,Eastern Asia,13,1499.5,-137.15,-9.15
+Books ,Southeast Asia,34,1056.72,-143.71,-13.6
+Hunting & Shooting,North Africa,5,509.83,-151.84,-29.78
+Cameras ,South Asia,3,1356.12,-156.74,-11.56
+As Seen on  TV!,Caribbean,1,99.99,-163.18,-163.2
+Boxing & MMA,North Africa,9,1814.01,-168.72,-9.3
+As Seen on  TV!,Central America,15,5299.47,-204.78,-3.86
+Strength Training,Caribbean,3,567.0,-205.43,-36.23
+Girls' Apparel,Northern Europe,55,6329.62,-233.26,-3.69
+Baseball & Softball,West Africa,12,1929.57,-254.93,-13.21
+Hunting & Shooting,Caribbean,22,3029.4,-278.8,-9.2
+Tennis & Racquet,US Center ,17,2474.45,-311.81,-12.6
+Golf Gloves,West Asia,39,2708.94,-337.31,-12.45
+Hockey,Northern Europe,21,2397.96,-377.98,-15.76
+Boxing & MMA,West Africa,8,1319.28,-411.43,-31.19
+Lacrosse,Southern Europe,19,4249.29,-437.88,-10.3
+Men's Clothing,South Asia,45,9488.25,-486.31,-5.13
+DVDs,Western Europe,117,19232.46,-491.15,-2.55
+Golf Shoes,North Africa,8,1625.0,-501.48,-30.86
+Boxing & MMA,Eastern Europe,11,2253.77,-575.51,-25.54
+Golf Shoes,West Asia,13,2535.0,-859.53,-33.91
+Computers,Oceania,11,16500.0,-2628.86,-15.93
+Strength Training,Northern Europe,24,14856.89,-3162.15,-21.28
