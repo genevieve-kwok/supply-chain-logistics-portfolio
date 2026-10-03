@@ -1,0 +1,87 @@
+import sqlite3
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# 1. Connect to your database
+conn = sqlite3.connect('dataco.db')
+
+# Query to get daily demand and lead times by product category
+query = """
+    SELECT 
+        category_name,
+        order_date_dateorders AS order_date,
+        SUM(order_item_quantity) AS daily_demand,
+        AVG(days_for_shipping_real) AS lead_time
+    FROM orders
+    GROUP BY category_name, order_date_dateorders
+"""
+df = pd.read_sql(query, conn)
+conn.close()
+
+# Convert dates and clean
+df['order_date'] = pd.to_datetime(df['order_date'], errors='coerce')
+df = df.dropna()
+
+# 2. Calculate Dynamic Parameters per Category (e.g., for 'Cleats' or top category)
+cat_name = df['category_name'].value_counts().index[0]
+cat_df = df[df['category_name'] == cat_name]
+
+avg_daily_demand = cat_df['daily_demand'].mean()
+std_daily_demand = cat_df['daily_demand'].std()
+avg_lead_time = cat_df['lead_time'].mean()
+std_lead_time = cat_df['lead_time'].std()
+
+print(f"--- Baseline Metrics for: {cat_name} ---")
+print(f"Avg Daily Demand (D): {avg_daily_demand:.2f} (Std: {std_daily_demand:.2f})")
+print(f"Avg Lead Time (L): {avg_lead_time:.2f} days (Std: {std_lead_time:.2f})")
+
+# 3. Dynamic Safety Stock Calculation (Z = 1.65 for 95% service level)
+Z = 1.65
+safety_stock = Z * np.sqrt(
+    (avg_lead_time * (std_daily_demand**2))
+    + ((avg_daily_demand**2) * (std_lead_time**2))
+)
+print(f"Calculated Dynamic Safety Stock: {safety_stock:.0f} units")
+
+# 4. Monte Carlo Simulation (1,000 Demand & Lead-Time Shocks)
+np.random.seed(42)
+n_simulations = 1000
+
+# Simulate stochastic shocks
+simulated_demand = np.random.normal(
+    avg_daily_demand, std_daily_demand, n_simulations
+)
+simulated_lead_time = np.random.normal(
+    avg_lead_time, std_lead_time, n_simulations
+)
+simulated_lead_time = np.clip(
+    simulated_lead_time, 1, None
+)  # Lead time can't be negative
+
+# Evaluate stockout risk under uncertainty
+reorder_point = (avg_daily_demand * avg_lead_time) + safety_stock
+simulated_lead_demand = simulated_demand * simulated_lead_time
+stockouts = np.sum(simulated_lead_demand > reorder_point)
+stockout_risk_pct = (stockouts / n_simulations) * 100
+
+print(f"\n--- Monte Carlo Results ({n_simulations} runs) ---")
+print(f"Empirical Stockout Risk Rate: {stockout_risk_pct:.1f}%")
+
+# 5. Plot simulated lead-time demand against the reorder point
+fig, ax = plt.subplots(figsize=(10, 6))
+ax.hist(simulated_lead_demand, bins=30, color="steelblue", edgecolor="white")
+ax.axvline(
+    reorder_point,
+    color="crimson",
+    linestyle="--",
+    linewidth=2,
+    label=f"Reorder point ({reorder_point:.0f} units)",
+)
+ax.set_title(f"Simulated Lead-Time Demand — {cat_name}\n"
+             f"Estimated stockout risk: {stockout_risk_pct:.1f}%")
+ax.set_xlabel("Simulated lead-time demand (units)")
+ax.set_ylabel("Number of simulations")
+ax.legend()
+fig.tight_layout()
+plt.show()
